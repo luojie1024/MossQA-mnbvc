@@ -1,7 +1,7 @@
 # MossQA-mnbvc
 
 ## 项目描述
-- 本项目主要对开源的Moss stf数据进行整理 ，转换成mnbvc多轮对话格式
+- 本项目主要对开源的MOSS sft数据进行整理 ，转换成mnbvc多轮对话格式
 - 各个数据集原始的数据格式见 dataset
 - 处理结果为 jsonl，每行对应一条数据
 

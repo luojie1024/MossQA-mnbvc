@@ -66,7 +66,7 @@ python sft2.py
 
 
 
-## 下载工具代码
+## 下载工具
 ```python
  git clone https://github.com/X94521/DataCheck_MNBVC.git
 ```

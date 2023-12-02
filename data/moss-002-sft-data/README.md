@@ -32,3 +32,15 @@ An open-source conversational dataset that was used to train MOSS-002. The user 
 | zh_helpfulness.json  | 447750     |
 | zh_honesty.json      | 142885     |
 
+
+
+```shell
+.
+├── README.md
+├── en_harmlessness.json
+├── en_helpfulness.json
+├── en_honesty.json
+├── gitattributes
+├── zh_helpfulness.json
+└── zh_honesty.json
+```
